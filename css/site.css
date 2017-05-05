@@ -1,0 +1,53 @@
+#logo {
+	background-image: url('../img/fundo.png');
+	height: 500px;
+} 
+
+.dropdown-menu {
+	background-color:rgba(231, 231, 231, 0.1);
+	font-weight: bold;
+}
+
+.dropdown-menu > li {
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.dropdown-menu > li > a:hover {
+	background-color:rgb(240,87,87);
+	color: white;
+}	
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-link:hover {
+	background-color:rgb(240,87,87);
+  	color: white;
+}
+
+.dropdown-menu > li > a {
+	font-weight: bold;
+	background-color:rgba(231, 231, 231, 0.1);
+	color: white;
+}	
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-link {
+	font-weight: bold;
+
+  color: white;
+}
+
+#nav-color {
+	background-color:rgba(231, 231, 231, 0.1);
+	border: none;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	background-color:rgb(240,87,87);
+  	color: white;
+}
+
+#carousel-pam {
+	height: 430px;
+}
