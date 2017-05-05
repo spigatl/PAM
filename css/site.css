@@ -51,3 +51,16 @@
 #carousel-pam {
 	height: 430px;
 }
+
+#noticias {
+	margin-top: 20px;
+}
+.thumbnail {
+	padding: 0px;
+}
+
+.thumbnail > img, .thumbnail a > img {
+	width: 323px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
