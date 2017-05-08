@@ -2,17 +2,19 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>PAM Três Lagoas</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/site.css">
 </head>
 <body>
+<div class="container">
 	<div class="row" id="logo">
 		<nav id="nav-color" class="navbar navbar-default">
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
-					<a class="navbar-brand" href="#">PAM Três Lagoas</a>
+					<a class="navbar-brand" href="#"><img src="img/Logo.png" alt="" id="imglogo"/></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -41,8 +43,9 @@
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
 		</nav>
+		
 	</div>
-	<div class="row">
+	<div class="row" id="corpo">
 		<div class="col-xs-9">
 			<div class="row">
 				<div class="col-xs-12">
@@ -56,29 +59,29 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner" role="listbox">
 							<div class="item active">
-								<div class="col-xs-4 col-xs-offset-2">
-									<h1 style="color: white;">
+								<div class="col-xs-6 col-xs-offset-1">
+									<h1 style="color: black;">
 										PAM – 23 Anos
 										<br/>
 									</h1>
-									<h1 style="color:#ebbc11">
+									<h3 style="color:#ebbc11">
 										“Sinergia e Sustentabilidade no Alto Tietê”.
-									</h1>
+									</h3>
 								</div>
-								<div class="col-xs-6">
+								<div class="col-xs-5">
 									<img src="img/img1.4.png" alt="...">
 								</div>
 							</div>
 							<div class="item">
-								<div class="col-xs-4 col-xs-offset-2">
-									<h1 style="color: white;">Excelência
+								<div class="col-xs-6 col-xs-offset-1">
+									<h1 style="color: black;">Excelência
 										<br/>
 									</h1>
-									<h1 style="color:#ebbc11">
-										Nossos treinamentos são ministrados e certificados por órgãos competentes, sob coordenação Operacional do 17º GB.
-									</h1>
+									<h3 style="color:#ebbc11">
+										Nossos treinamentos são ministrados e certificados por órgãos competentes, sob coordenação Operacional do 17º GB. 
+									</h3>
 								</div>
-								<div class="col-xs-6">
+								<div class="col-xs-5">
 									<img src="img/img2.1.png" alt="...">
 								</div>
 							</div>
@@ -99,27 +102,30 @@
 					<a href="#">
 						<div class="panel ">
 							<div class="panel-body">
-								<span><h6> 5 de mai de 2017 - PAM Três Lagoas</h6></span>
-								<p><strong> José Melo segue no governo do AM até publicação de acórdão, diz TRE</strong></p>
-								Governador teve cassação mantida pelo TSE. Presidente da ALE-AM assumirá cargo após execução de acórdão. Facebook · Twitter. Por G1 AM. 05/05/2017 12h44 Atualizado há 8 horas. José Melo (Foto: Adneison Severiano/G1 AM). O governador José ...
+								<span><h6 style="color: #878787"> 5 de mai de 2017 - PAM Três Lagoas</h6></span>
+								<p style="color: red"><strong> José Melo segue no governo do AM até publicação de acórdão, diz TRE</strong></p>
+								<p style="color: #444">
+								Governador teve cassação mantida pelo TSE. Presidente da ALE-AM assumirá cargo após execução de acórdão. Facebook · Twitter. Por G1 AM. 05/05/2017 12h44 Atualizado há 8 horas. José Melo (Foto: Adneison Severiano/G1 AM)... </p>
 							</div>
 						</div>
 					</a>
 					<a href="#">
 						<div class="panel ">
 							<div class="panel-body">
-								<span><h6> 5 de mai de 2017 - PAM Três Lagoas</h6></span>
-								<p><strong> José Melo segue no governo do AM até publicação de acórdão, diz TRE</strong></p>
-								Governador teve cassação mantida pelo TSE. Presidente da ALE-AM assumirá cargo após execução de acórdão. Facebook · Twitter. Por G1 AM. 05/05/2017 12h44 Atualizado há 8 horas. José Melo (Foto: Adneison Severiano/G1 AM). O governador José ...
+								<span><h6 style="color: #ccc"> 5 de mai de 2017 - PAM Três Lagoas</h6></span>
+								<p style="color: red"><strong> José Melo segue no governo do AM até publicação de acórdão, diz TRE</strong></p>
+								<p style="color: #444">
+								Governador teve cassação mantida pelo TSE. Presidente da ALE-AM assumirá cargo após execução de acórdão. Facebook · Twitter. Por G1 AM. 05/05/2017 12h44 Atualizado há 8 horas. José Melo (Foto: Adneison Severiano/G1 AM)... </p>
 							</div>
 						</div>
 					</a>
 					<a href="#">
 						<div class="panel ">
 							<div class="panel-body">
-								<span><h6> 5 de mai de 2017 - PAM Três Lagoas</h6></span>
-								<p><strong> José Melo segue no governo do AM até publicação de acórdão, diz TRE</strong></p>
-								Governador teve cassação mantida pelo TSE. Presidente da ALE-AM assumirá cargo após execução de acórdão. Facebook · Twitter. Por G1 AM. 05/05/2017 12h44 Atualizado há 8 horas. José Melo (Foto: Adneison Severiano/G1 AM). O governador José ...
+								<span><h6 style="color: #ccc"> 5 de mai de 2017 - PAM Três Lagoas</h6></span>
+								<p style="color: red"><strong> José Melo segue no governo do AM até publicação de acórdão, diz TRE</strong></p>
+								<p style="color: #444">
+								Governador teve cassação mantida pelo TSE. Presidente da ALE-AM assumirá cargo após execução de acórdão. Facebook · Twitter. Por G1 AM. 05/05/2017 12h44 Atualizado há 8 horas. José Melo (Foto: Adneison Severiano/G1 AM)... </p>
 							</div>
 						</div>
 					</a>
@@ -156,20 +162,25 @@
 		</div>
 	</div>
 	<div class="row" id="rodape">
-		<div class="col-xs-2">
+		<div class="col-xs-2" id="acesso">
+
 			<button type="button" class="btn btn-default" aria-label="Left Align">
 			<span class="glyphicon glyphicon-user" aria-hidden="true"> Login</span>
 			</button>
 		</div>
-		<div class="col-xs-5">
-		<p>
-		Plano de Auxílio Mútuo de Três Lagoas<br>
-Av. Filinto Muller, 3.300 - Jd. Morumbi<br>
-Três Lagoas (MS) - CEP 79037-100<br>
-Fones: (67) - 3509-7800 | 3509-7801<br>
-</p>
+		<div class="col-xs-6">
+		
 </div>
-		<div class="col-xs-5"></div>
+		<div class="col-xs-4" id="end">
+			<address>
+  <strong>PAM Três Lagoas - Plano de Auxílio Mútuo</strong><br>
+  Av. Filinto Muller, 3.300 - Jd. Morumbi<br>
+  Três Lagoas (MS) - CEP 79037-100<br>
+  <abbr title="Phone">Tel:</abbr> (67) - 3509-7800 | 3509-7801
+</address>
+		</div>
+	</div>
+	<div class="col-xs-12" id="copy"><h6> Todos os direitos Reservados</h6></div>
 	</div>
 </body>
 <script src="js/jquery.js"></script>
