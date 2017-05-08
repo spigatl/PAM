@@ -1,6 +1,11 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #e3e3e3;
+}
 #logo {
 	background-image: url('../img/fundo.png');
-	height: 500px;
+	height: 200px;
 } 
 
 .dropdown-menu {
@@ -49,18 +54,26 @@
 }
 
 #carousel-pam {
-	height: 430px;
+	height: 250px;
+	margin-bottom: 20px;
 }
 
-#noticias {
-	margin-top: 20px;
-}
 .thumbnail {
 	padding: 0px;
 }
 
 .thumbnail > img, .thumbnail a > img {
-	width: 323px;
+	width: 325px;
 	border-top-left-radius: 4px;
 	border-top-right-radius: 4px;
+}
+.carousel-control {
+	opacity: 0;
+
+}
+#facebook {
+	border-radius: 4px;
+}
+#rodape {
+	background-color: #909090;
 }
