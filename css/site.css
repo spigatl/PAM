@@ -45,7 +45,7 @@ body{
 .navbar-default .navbar-link {
 	font-weight: bold;
 
-    color: black;
+    color: #444;
 }
 
 #nav-color {
@@ -56,7 +56,7 @@ body{
 
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
 	background-color:rgb(240,87,87);
-  	color: black;
+  	color: 444;
 }
 
 #carousel-pam {
@@ -64,15 +64,6 @@ body{
 	margin-bottom: 20px;
 }
 
-.thumbnail {
-	padding: 0px;
-}
-
-.thumbnail > img, .thumbnail a > img {
-	width: 325px;
-	border-top-left-radius: 4px;
-	border-top-right-radius: 4px;
-}
 .carousel-control {
 	opacity: 0;
 
@@ -112,8 +103,19 @@ a { color: black; }
 	padding-top: 45px;
 	padding-left: 50px;
 }
+.img-responsive {
+	border-radius: 4px;
+}
 .thumbnail {
+	padding: 0px;
 	border: none;
+	margin-bottom: 0px;
+}
+
+#cursomid img {
+margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 .carousel-control.left {
