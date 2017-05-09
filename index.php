@@ -159,16 +159,18 @@
 				<div class="col-xs-12" >
 					<img src="img/face.png" alt="" class="img-responsive" id="facebook"><br>
 				</div>
-				<div class="col-xs-12">
+				<div  class="col-xs-12">
 					<div class="thumbnail">
-						<div class="caption">
-							<h3>Faça Parte</h3>
-							<p>Às empresas interessadas, nossos documentos para Análise:</p>
-							<ul>
-								<li>Estatuto do PAM</li>
-								<li> Termo de Compromisso</li>
-								<li> Ficha de Inscrição</li>
-								<li> Kit de Emergência do PAM Alto Tietê </li>
+                    <div id="parte" class="col-xs-12">
+                    <h4><strong>Faça Parte</strong></h4>
+                    </div>
+						<div id="faca" class="caption">
+							<span><p>Às empresas interessadas, nossos documentos para Análise:</p></span>
+							<ul id="doc">
+								<li><img src="img/pdf.png" width="16" height="16"><a href=""> Estatuto do PAM</li></a>
+								<li><img src="img/pdf.png" width="16" height="16"><a href=""> Termo de Compromisso</li></a>
+								<li><img src="img/pdf.png" width="16" height="16"><a href=""> Ficha de Inscrição</li></a>
+								<li><img src="img/pdf.png" width="16" height="16"><a href=""> Kit de Emergência do PAM</li></a>
 							</ul>
 						</div>
 					</div>

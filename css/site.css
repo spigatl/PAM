@@ -134,3 +134,18 @@ background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(0, 0
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
 background-repeat: repeat-x;
 }
+
+#parte {
+	background-color:rgb(240,87,87);
+  	color: #fff;
+  	border-top-left-radius: 4px;
+  	border-top-right-radius: 4px;
+}
+#doc {
+	list-style: none;
+	padding: 0px;
+}
+#faca {
+	color: #444;
+	padding: 51px 10px 5px 10px;
+}
